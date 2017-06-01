@@ -1,2 +1,2 @@
 # myexpress
-vue sqlite3 express require api
+vue sqlite3 express quiry api
