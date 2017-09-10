@@ -1,6 +1,8 @@
 # myexpress
-vue sqlite3 express quiry api
 
-<a href="http://www.kuaidi.com/" target="_blank">快递单号查询接口</a>
-
-[快递单号查询接口]: http://www.kuaidi.com/
+##我的错，不应该天黑以后还在马路上散步
+##我的错，应该闭上眼睛，塞上耳朵，再去关门
+##我的错，不应该生于此、长于此，还苟活至今
+##我的错，不应该心生惶恐、恐惧、怨愤且逃遁
+##我的错，应该叩拜伏地、自唾己面、伸腿以待
+##我的错，我的错，我的错。
